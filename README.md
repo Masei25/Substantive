@@ -23,7 +23,7 @@ Built with Laravel
 9. Run `npm run build`
 10. Run `npm run dev`
 11. Run `php artisan serve`
-12. Hit the URL returned in '8' above in your web browser. Voila!
+12. Hit the URL returned in '12' above in your web browser. Voila!
 
 ### Approach I used
 
